@@ -19,7 +19,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/MBM-D/NaufraZapp-MD && cd NaufraZapp-MD
+git clone https://github.com/NaufraZapp/Naufrabot-base && cd Naufrabot-base
 ```
 
 ```bash
@@ -35,7 +35,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd NaufraZapp-MD
+    cd Naufrabot-base
     ```
 
 2. Inicia el bot nuevamente:
